@@ -1,8 +1,10 @@
-## LinkedIn App Reviews Sentiment Analysis using Python
+## Analyzing LinkedIn App Reviews Sentiment with Python
 
-### Tech Stack
+### Technology Stack
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
+* **Python**: Utilized as the primary programming language.
+* **Pandas**: Employed for efficient data manipulation and analysis.
+* **Matplotlib**: Chosen for creating insightful data visualizations.
+* **Seaborn**: Used alongside Matplotlib for enhanced data visualization capabilities.
+* **TextBlob**: Employed for natural language processing tasks such as sentiment analysis, part-of-speech tagging, and text classification.
+* **Wordcloud**: Utilized for visualizing text data by generating word clouds, where the size of each word corresponds to its frequency in the text.
