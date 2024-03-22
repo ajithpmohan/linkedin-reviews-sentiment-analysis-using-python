@@ -1,6 +1,11 @@
 {
     "recommendations": [
-        "ms-toolsai.jupyter",
-        "ms-python.python"
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "charliermarsh.ruff",
+        "oderwat.indent-rainbow",
+        "visualstudioexptteam.vscodeintellicode",
     ]
 }
